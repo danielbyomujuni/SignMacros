@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "id": "signmacros",
+  "version": "${version}",
+
+  "name": "sign Macros",
+  "description": "This is an example description! Tell everyone what your mod is about!",
+  "authors": [
+    "Trainerlord"
+  ],
+  "contact": {
+    "homepage": "N/A",
+    "sources": "N/A"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/signMacros/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.signMacros.SignMacros"
+    ]
+  },
+  "mixins": [
+    "signMacros.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "flamingo": "*"
+  }
+}

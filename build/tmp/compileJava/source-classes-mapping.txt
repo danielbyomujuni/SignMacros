@@ -1,0 +1,6 @@
+net/signMacros/mixin/SignMacrosMixins.java
+ net.signMacros.mixin.SignMacrosMixins
+net/signMacros/mixin/SignBlockMixins.java
+ net.signMacros.mixin.SignBlockMixins
+net/signMacros/SignMacros.java
+ net.signMacros.SignMacros

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.signMacros.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "SignMacrosMixins",
+    "SignBlockMixins"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

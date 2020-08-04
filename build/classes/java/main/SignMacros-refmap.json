@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "net/signMacros/mixin/SignMacrosMixins": {
+      "init()V": "Lnet/minecraft/class_442;method_25426()V"
+    },
+    "net/signMacros/mixin/SignBlockMixins": {
+      "onUse": "Lnet/minecraft/class_2478;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/signMacros/mixin/SignMacrosMixins": {
+        "init()V": "Lnet/minecraft/class_442;method_25426()V"
+      },
+      "net/signMacros/mixin/SignBlockMixins": {
+        "onUse": "Lnet/minecraft/class_2478;method_9534(Lnet/minecraft/class_2680;Lnet/minecraft/class_1937;Lnet/minecraft/class_2338;Lnet/minecraft/class_1657;Lnet/minecraft/class_1268;Lnet/minecraft/class_3965;)Lnet/minecraft/class_1269;"
+      }
+    }
+  }
+}
